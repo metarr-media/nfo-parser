@@ -7,7 +7,7 @@
   "files": [
     "dist/**"
   ],
-  "description": "A simple NFO parser (cloned from metarr-media/nfo-parser packages)",
+  "description": "A simple NFO parser (cloned from hqwuzhaoyi/gpt-subtitle packages)",
   "keywords": [
     "nfo"
   ],
