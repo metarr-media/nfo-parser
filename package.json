@@ -29,9 +29,9 @@
     "type": "git",
     "url": "https://github.com/metarr-media/nfo-parser"
   },
-  "author": "hqwuzhaoyi <hqwuzhaoyi@gmail.com>",
+  "author": "hqwuzhaoyi <hqwuzhaoyi@gmail.com> (Original author)",
   "contributors": [
-    "hqwuzhaoyi <hqwuzhaoyi@gmail.com>"
+    "hqwuzhaoyi <hqwuzhaoyi@gmail.com> (Original author)"
   ],
   "license": "MIT",
   "bugs": {
